@@ -1,0 +1,25 @@
+Exception Message: Unexpected error: Entity 'wms_Stakeholder' With Id = e8941a91-54f2-ee11-a1fd-0022486e6cc8 Does Not Exist
+
+ErrorCode: -2147220891
+HexErrorCode: 0x80040265
+
+ErrorDetails: 
+	OperationStatus: 0
+	SubErrorCode: -2146233088
+	Plugin: 
+		ExceptionFromPluginExecute: Dam_Management_System.StakeholderOnSelectOfDamValidateHoldingPercent
+		ExceptionRetriable: False
+		ExceptionSource: PluginExecution
+		OriginalException: PluginExecution
+		PluginTrace: Error: Entity 'wms_Stakeholder' With Id = e8941a91-54f2-ee11-a1fd-0022486e6cc8 Does Not Exist
+
+HelpLink: http://go.microsoft.com/fwlink/?LinkID=398563&error=Microsoft.Crm.CrmException%3a80040265&client=platform
+
+TraceText: 
+	[Dam Management System: Dam_Management_System.StakeholderOnSelectOfDamValidateHoldingPercent]
+	[dae50316-54f2-ee11-a1fd-0022486e6cc8: Dam_Management_System.StakeholderOnSelectOfDamValidateHoldingPercent: Create of wms_stakeholder]
+	
+		
+		Error: Entity 'wms_Stakeholder' With Id = e8941a91-54f2-ee11-a1fd-0022486e6cc8 Does Not Exist
+
+Activity Id: adb986db-b656-43ef-a97f-4aaa9aa08a28
