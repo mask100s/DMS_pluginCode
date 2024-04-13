@@ -6,9 +6,9 @@ using System.Text;
 using System.Threading.Tasks;
 using Microsoft.Xrm.Sdk.Query;
 
-namespace DamManagementSystem.Plugins
+namespace DamManagementSystemPlugins
 {
-    public class ItemOnSelectOfProductAutopopulatePerUnitCost : IPlugin
+    public class OnCreateAndUpdateItem : IPlugin
     {
         public void Execute(IServiceProvider serviceProvider)
         {
@@ -25,13 +25,14 @@ namespace DamManagementSystem.Plugins
             try
             {
 
+
                 // Check if the plugin is triggered on the creation or update of the Policy entity.
                 if (context.InputParameters.Contains("Target") && context.InputParameters["Target"] is Entity)
                 {
                     // Retrieve the target entity from the input parameters.
                     Entity item = (Entity)context.InputParameters["Target"];
 
-                    if (item.LogicalName.Equals(Items.items, StringComparison.OrdinalIgnoreCase))
+                    if (item.LogicalName.Equals(Items.logicalName, StringComparison.OrdinalIgnoreCase))
                     {
                         EntityReference productRef = item.GetAttributeValue<EntityReference>(Items.product);
                         decimal quantity = item.GetAttributeValue<decimal>(Items.quantity);
@@ -48,7 +49,7 @@ namespace DamManagementSystem.Plugins
                                 item[Items.perUnitCost] = perUnitCost.GetAttributeValue<Money>(Catalogs.perUnitCost);
                                 Money cost = perUnitCost.GetAttributeValue<Money>(Catalogs.perUnitCost);
 
-                                item[Items.totalcost] =  cost.Value * quantity * (endDate.Date-startDate.Date).Days;
+                                item[Items.totalCost] =  cost.Value * quantity * ((endDate.Date-startDate.Date).Days+1);
 
                                 service.Update(item);
                             }
@@ -60,8 +61,9 @@ namespace DamManagementSystem.Plugins
             }
             catch (Exception ex)
             {
+                ErrorLog.CreateExceptionLog(service, ex, String.Empty, "Plugin OnCreateItem");
                 tracingService.Trace($"Error: {ex.Message}");
-                throw new InvalidPluginExecutionException($"Unexpected error: {ex.Message}"); ;
+                throw new InvalidPluginExecutionException($"{ex.Message}");
             }
 
         }

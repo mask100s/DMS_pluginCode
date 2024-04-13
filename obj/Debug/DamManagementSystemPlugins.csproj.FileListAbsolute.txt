@@ -1,0 +1,68 @@
+D:\bitsquad_software\plugins_code\Dam Management System\obj\Debug\DamManagementSystemPlugins.csproj.AssemblyReference.cache
+D:\bitsquad_software\plugins_code\Dam Management System\obj\Debug\DamManagementSystemPlugins.csproj.CoreCompileInputs.cache
+D:\bitsquad_software\plugins_code\Dam Management System\obj\Debug\Dam Management System.dll
+D:\bitsquad_software\plugins_code\Dam Management System\obj\Debug\Dam Management System.pdb
+D:\bitsquad_software\plugins_code\Dam Management System\bin\Debug\Dam Management System.dll.config
+D:\bitsquad_software\plugins_code\Dam Management System\bin\Debug\Dam Management System.dll
+D:\bitsquad_software\plugins_code\Dam Management System\bin\Debug\Dam Management System.pdb
+D:\bitsquad_software\plugins_code\Dam Management System\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+D:\bitsquad_software\plugins_code\Dam Management System\bin\Debug\Microsoft.Crm.Sdk.Proxy.dll
+D:\bitsquad_software\plugins_code\Dam Management System\bin\Debug\Microsoft.Xrm.Sdk.Deployment.dll
+D:\bitsquad_software\plugins_code\Dam Management System\bin\Debug\Microsoft.Xrm.Sdk.dll
+D:\bitsquad_software\plugins_code\Dam Management System\bin\Debug\Microsoft.Xrm.Sdk.Workflow.dll
+D:\bitsquad_software\plugins_code\Dam Management System\bin\Debug\System.Buffers.dll
+D:\bitsquad_software\plugins_code\Dam Management System\bin\Debug\System.Memory.dll
+D:\bitsquad_software\plugins_code\Dam Management System\bin\Debug\System.Numerics.Vectors.dll
+D:\bitsquad_software\plugins_code\Dam Management System\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\bitsquad_software\plugins_code\Dam Management System\bin\Debug\System.Text.Encodings.Web.dll
+D:\bitsquad_software\plugins_code\Dam Management System\bin\Debug\System.Text.Json.dll
+D:\bitsquad_software\plugins_code\Dam Management System\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\bitsquad_software\plugins_code\Dam Management System\bin\Debug\System.ValueTuple.dll
+D:\bitsquad_software\plugins_code\Dam Management System\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+D:\bitsquad_software\plugins_code\Dam Management System\bin\Debug\Microsoft.Crm.Sdk.Proxy.xml
+D:\bitsquad_software\plugins_code\Dam Management System\bin\Debug\Microsoft.Xrm.Sdk.xml
+D:\bitsquad_software\plugins_code\Dam Management System\bin\Debug\Microsoft.Xrm.Sdk.Deployment.xml
+D:\bitsquad_software\plugins_code\Dam Management System\bin\Debug\Microsoft.Xrm.Sdk.Workflow.xml
+D:\bitsquad_software\plugins_code\Dam Management System\bin\Debug\System.Buffers.xml
+D:\bitsquad_software\plugins_code\Dam Management System\bin\Debug\System.Memory.xml
+D:\bitsquad_software\plugins_code\Dam Management System\bin\Debug\System.Numerics.Vectors.xml
+D:\bitsquad_software\plugins_code\Dam Management System\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\bitsquad_software\plugins_code\Dam Management System\bin\Debug\System.Text.Encodings.Web.xml
+D:\bitsquad_software\plugins_code\Dam Management System\bin\Debug\System.Text.Json.xml
+D:\bitsquad_software\plugins_code\Dam Management System\bin\Debug\System.Threading.Tasks.Extensions.xml
+D:\bitsquad_software\plugins_code\Dam Management System\bin\Debug\System.ValueTuple.xml
+D:\bitsquad_software\plugins_code\Dam Management System\obj\Debug\DamManag.C6A921EE.Up2Date
+D:\bitsquad_software\plugins_code\DamManagementSystem\bin\Debug\Dam Management System.dll.config
+D:\bitsquad_software\plugins_code\DamManagementSystem\bin\Debug\Dam Management System.dll
+D:\bitsquad_software\plugins_code\DamManagementSystem\bin\Debug\Dam Management System.pdb
+D:\bitsquad_software\plugins_code\DamManagementSystem\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+D:\bitsquad_software\plugins_code\DamManagementSystem\bin\Debug\Microsoft.Crm.Sdk.Proxy.dll
+D:\bitsquad_software\plugins_code\DamManagementSystem\bin\Debug\Microsoft.Xrm.Sdk.Deployment.dll
+D:\bitsquad_software\plugins_code\DamManagementSystem\bin\Debug\Microsoft.Xrm.Sdk.dll
+D:\bitsquad_software\plugins_code\DamManagementSystem\bin\Debug\Microsoft.Xrm.Sdk.Workflow.dll
+D:\bitsquad_software\plugins_code\DamManagementSystem\bin\Debug\System.Buffers.dll
+D:\bitsquad_software\plugins_code\DamManagementSystem\bin\Debug\System.Memory.dll
+D:\bitsquad_software\plugins_code\DamManagementSystem\bin\Debug\System.Numerics.Vectors.dll
+D:\bitsquad_software\plugins_code\DamManagementSystem\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\bitsquad_software\plugins_code\DamManagementSystem\bin\Debug\System.Text.Encodings.Web.dll
+D:\bitsquad_software\plugins_code\DamManagementSystem\bin\Debug\System.Text.Json.dll
+D:\bitsquad_software\plugins_code\DamManagementSystem\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\bitsquad_software\plugins_code\DamManagementSystem\bin\Debug\System.ValueTuple.dll
+D:\bitsquad_software\plugins_code\DamManagementSystem\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+D:\bitsquad_software\plugins_code\DamManagementSystem\bin\Debug\Microsoft.Crm.Sdk.Proxy.xml
+D:\bitsquad_software\plugins_code\DamManagementSystem\bin\Debug\Microsoft.Xrm.Sdk.xml
+D:\bitsquad_software\plugins_code\DamManagementSystem\bin\Debug\Microsoft.Xrm.Sdk.Deployment.xml
+D:\bitsquad_software\plugins_code\DamManagementSystem\bin\Debug\Microsoft.Xrm.Sdk.Workflow.xml
+D:\bitsquad_software\plugins_code\DamManagementSystem\bin\Debug\System.Buffers.xml
+D:\bitsquad_software\plugins_code\DamManagementSystem\bin\Debug\System.Memory.xml
+D:\bitsquad_software\plugins_code\DamManagementSystem\bin\Debug\System.Numerics.Vectors.xml
+D:\bitsquad_software\plugins_code\DamManagementSystem\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\bitsquad_software\plugins_code\DamManagementSystem\bin\Debug\System.Text.Encodings.Web.xml
+D:\bitsquad_software\plugins_code\DamManagementSystem\bin\Debug\System.Text.Json.xml
+D:\bitsquad_software\plugins_code\DamManagementSystem\bin\Debug\System.Threading.Tasks.Extensions.xml
+D:\bitsquad_software\plugins_code\DamManagementSystem\bin\Debug\System.ValueTuple.xml
+D:\bitsquad_software\plugins_code\DamManagementSystem\obj\Debug\DamManagementSystemPlugins.csproj.AssemblyReference.cache
+D:\bitsquad_software\plugins_code\DamManagementSystem\obj\Debug\DamManagementSystemPlugins.csproj.CoreCompileInputs.cache
+D:\bitsquad_software\plugins_code\DamManagementSystem\obj\Debug\DamManag.C6A921EE.Up2Date
+D:\bitsquad_software\plugins_code\DamManagementSystem\obj\Debug\Dam Management System.dll
+D:\bitsquad_software\plugins_code\DamManagementSystem\obj\Debug\Dam Management System.pdb
